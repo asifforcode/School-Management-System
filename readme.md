@@ -1,6 +1,6 @@
-## **Laravel School Management System** 
+## **GNPS School Management System** 
 
-**LAVSMS** is developed for educational institutions like schools and colleges built on Laravel 8
+**SMS** is developed for educational institutions like schools and colleges built on Laravel 8
 
 **SCREENSHOTS** 
 
@@ -111,7 +111,7 @@ Your Contributions & suggestions are welcomed. Please use Pull Request
 
 ### **Security Vulnerabilities**
 
-If you discover a security vulnerability within LAV_SMS, please send an e-mail to CJ Inspired via cjay.pub@gmail.com. All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within LAV_SMS, please send an e-mail to ASIF Inspired via asif11931.com. All security vulnerabilities will be promptly addressed.
 
 ***Please Note*** that some sections of this project are in the work-in-progress stage and would be updated soon. These include:
 
@@ -119,5 +119,5 @@ If you discover a security vulnerability within LAV_SMS, please send an e-mail t
 - Librarian/Acountant user pages
 - Library Resources/Study Materials Upload for Students
 
-### **Contact [CJ INSPIRED]**
-- Phone : +2347068149559
+### **Contact [ASIF ]**
+- Phone : +91 7481981410
