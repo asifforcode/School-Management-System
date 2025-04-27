@@ -9,7 +9,7 @@
 
 
 **Login**
-<img src="https://i.ibb.co/Rh1Bfwk/login.png" alt="login" border="0">
+<img src="https://drive.google.com/uc?id=1f00QL7tW5nf69nRbpbytZIXUm-n1gvPG" alt="login" border="0">
 
 **Student Marksheet**
 <img src="https://i.ibb.co/GCgv5ZR/marksheet.png" alt="marksheet" border="0">
