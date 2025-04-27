@@ -15,8 +15,7 @@
 <img src="https://i.ibb.co/GCgv5ZR/marksheet.png" alt="marksheet" border="0">
 
 **System Settings**
-<img src="https://i.ibb.co/Kmrhw69/system-settings.png" alt="system-settings" border="0">
-
+<img src="https://drive.google.com/uc?id=1xtqSNVRam0W7mNdoIzSVNg06HNlrgFZe" alt="GNPS School Management System" border="0">
 
 
 **Print Tabulation Sheet & Marksheet**
