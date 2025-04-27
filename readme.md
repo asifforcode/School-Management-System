@@ -5,7 +5,8 @@
 **SCREENSHOTS** 
 
 **Dashboard**
-<img src="https://i.ibb.co/D4T0z6T/dashboard.png" alt="dashboard" border="0">
+<img src="![pic 1](https://github.com/user-attachments/assets/4ff97864-3014-4171-a6e9-30a45f14fa92)
+" alt="dashboard" border="0">
 
 **Login**
 <img src="https://i.ibb.co/Rh1Bfwk/login.png" alt="login" border="0">
